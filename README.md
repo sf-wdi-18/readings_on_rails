@@ -15,6 +15,8 @@ Be aware that Ruby on Rails changes often, and there are different editions of t
 [Form Helpers](http://guides.rubyonrails.org/form_helpers.html)    
 [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)   
 
+[Testing](http://guides.rubyonrails.org/testing.html)  
+
 ##Submission
 
 There is no URL to submit tonight, but please use the homework submission form to identify at least one interesting new thing you learned from your reading! 
@@ -24,13 +26,15 @@ There is no URL to submit tonight, but please use the homework submission form t
 
 Here are some other frequently-used Rails tools you might want to read about!  
 
-####Factory Girl
-
-Read about [Factory Girl](https://github.com/thoughtbot/factory_girl) and especially [Factory Girl Rails](https://github.com/thoughtbot/factory_girl_rails).
 
 ####FFaker
 
 We've touched on using Ffaker to generate test data, but take a look at the [docs](https://github.com/EmmanuelOga/ffaker)!
+
+####Factory Girl
+
+[Factory Girl](https://github.com/thoughtbot/factory_girl_rails) abstracts away the process of creating new instances of a Model. It works great with Ffaker for seeding your database. For more information checkout the getting started [guide](http://www.rubydoc.info/gems/factory_girl/2.3.2/file/GETTING_STARTED.md).
+
 
 
 ####Simple Form
