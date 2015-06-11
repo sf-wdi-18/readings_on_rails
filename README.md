@@ -41,5 +41,7 @@ We've touched on using Ffaker to generate test data, but take a look at the [doc
 
 If you're feeling good about basic Rails forms, [Simple Form](https://github.com/plataformatec/simple_form) gives you another way to do it. 
 
+####Sass
 
+Syntactically awesome style sheets, [Sass](http://sass-lang.com/guide), makes writting CSS easier & more fun! Rails comes bundled with it by default, so even better.
 
