@@ -30,7 +30,7 @@ Read about [Factory Girl](https://github.com/thoughtbot/factory_girl) and especi
 
 ####FFaker
 
-We've touched on using Ffaker to generate test data, but take a look at the [docs!](https://github.com/EmmanuelOga/ffaker).
+We've touched on using Ffaker to generate test data, but take a look at the [docs](https://github.com/EmmanuelOga/ffaker)!
 
 
 ####Simple Form
