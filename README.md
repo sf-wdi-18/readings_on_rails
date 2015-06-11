@@ -1,4 +1,4 @@
-#Recommended Rails Reading
+#Rails Continued Learnings & Recommended Readings
 
 ##Rails Guides
 As you delve deeper into Rails, familiarize yourself with each of the following essential Rails Guides. **Tonight**, spend 90 minutes reading through 2 guides on topics you haven't read about yet or that you feel less familiar with. 
