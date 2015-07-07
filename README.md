@@ -32,11 +32,6 @@ Here are some other frequently-used Rails tools you might want to read about!
 
 We've touched on using Ffaker to generate test data, but take a look at the [docs](https://github.com/EmmanuelOga/ffaker)!
 
-####Factory Girl
-
-[Factory Girl](https://github.com/thoughtbot/factory_girl_rails) abstracts away the process of creating new instances of a Model. It works great with Ffaker for seeding your database. For more information checkout the getting started [guide](http://www.rubydoc.info/gems/factory_girl/2.3.2/file/GETTING_STARTED.md).
-
-
 
 ####Simple Form
 
